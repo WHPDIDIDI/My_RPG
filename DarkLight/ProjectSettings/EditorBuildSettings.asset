@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/TitleScene.unity
+    guid: 09587de906c171b4b94a1d0fb1cf8e09
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/Character Creation.unity
+    guid: 54cbe87eeff674d48a9520690ac24a99
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/Dreamdev Village.unity
+    guid: d2f1ae638b8fe8c4fa93a266af98e635
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/My Character Creation.unity
+    guid: 153d3a58957c27a4cb784197beebc21c
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/Loading.unity
+    guid: 9ce7d3f1a0581d84b8c7d91bcae8fa40
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/My Dreamdev Village.unity
+    guid: 48cdefdbe4ab4114eb4eb7ff15e48617
+  m_configObjects: {}

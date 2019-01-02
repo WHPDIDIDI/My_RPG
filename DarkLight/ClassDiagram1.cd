@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UserModel">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserModelList">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoodsModel">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAAAAAAAAAAAAAYQAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoodsModelList">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Save">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQBAAECAAAAAAAAAAAAABAIAAAAAAQAAAAAAAQEA=</HashCode>
+      <FileName>Assets\Nature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
